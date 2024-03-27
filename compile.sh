@@ -1,0 +1,1 @@
+g++ headers/handler.h headers/printer.h -o main main.cpp
